@@ -1,0 +1,254 @@
+html body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    display: flex;
+    background-color: white;
+}
+.header ul{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 20px;
+}
+#logo{
+    height: 15px;
+    margin-left: 15%;
+    margin-top: 20px;
+}
+.header ul li{
+    list-style: none;
+    margin-right: 20px;
+}
+.header ul li a{
+    text-decoration: none;
+    color: gray;
+}
+.header button{
+    margin-left: 25%;
+    width: 140px;
+    border-radius: 30px;
+    height: 30px;
+    border: none;
+    margin-top: 10px;
+    background-image: linear-gradient(to right,hsl(136, 65%, 51%),hsl(192, 70%, 51%));
+}
+.d2{
+    display: flex; 
+    background-color: hsl(0, 0%, 98%);
+ }
+ #next{
+     margin-top: 45%;
+     margin-left: 20%;
+     font-family: 'public Sans';
+ }
+ #take{
+    margin-left: 20%;
+    color: gray;
+ }
+ .d2 button{
+    width: 140px;
+    border-radius: 30px;
+    height: 30px;
+    border: none;
+    margin-left: 20%;
+    margin-top: 15px;
+    background-image: linear-gradient(to right,hsl(136, 65%, 51%),hsl(192, 70%, 51%));
+ }
+
+ #box1{
+     width: 30%;
+ }
+ #box2{
+    background-image: url(images/stupid.PNG);
+    width: 70%;
+    height: 589px;
+    background-size: cover;
+    
+ }
+ #box2 img{
+    margin-left: 52%;
+ }
+ .d3{
+    background-color: hsl(220, 16%, 96%);
+    margin-top: -1.6%;
+ }
+ .d3 h1{
+    margin-left: 10%;
+    padding-top: 5%;
+ }
+ .d3 p{
+    margin-left: 10%;
+    margin-right: 50%;
+    color: gray;
+ }
+ .d3a{
+    display: flex;
+    height: 250px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 4%;
+ }
+ .d3aa h1{
+   margin-left: 0%;
+   font-size: 22px;
+ }
+ div .d3aa{
+width: 25%;
+
+ }
+
+ #box3 img{
+    height: 40px;
+ }
+ #box3 p{
+    margin-left: 0%;
+    margin-right: 15%;
+    color: gray;
+ }
+ 
+ #box4 img{
+    height: 40px;
+ }
+ #box4 p{
+    margin-left: 0%;
+    margin-right: 15%;
+    color: gray;
+ }
+ 
+ #box5 img{
+    height: 40px;
+ }
+ #box5 p{
+    margin-left: 0%;
+    margin-right: 15%;
+    color: gray;
+ }
+
+
+ #box6 img{
+    height: 40px;
+ }
+ #box6 p{
+    margin-left: 0%;
+    margin-right: 15%;
+    color: gray;
+ }
+ .d4{
+    background-color: white;
+    margin-top: -1.6%;
+ }
+ .d4 h1{
+    padding-top: 5%;
+    margin-left: 10%;
+ }
+ .d4a{
+    display: flex;
+    height: 350px;
+    
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 5%;
+ }
+ div .d4aa{
+    width: 235px;
+    margin-right: 30px;
+ }
+ #box7{
+    background-color: white;
+    
+ }
+ #box7 img{
+    height: 160px;
+    width: 235px;
+ }
+ #by{
+    font-size: 12px;
+    margin-left: 25px;
+    color: gray;
+ }
+ #middle{
+    font-size: 19px;
+    margin-top: -6%;
+ }
+ #under{
+    font-size: 15px;
+    margin-left: 25px;
+    color: gray;
+ }
+ #box8{
+    background-color: white;
+ }
+ #box8 img{
+    height: 160px;
+    width: 235px;
+ }
+ #box9{
+    background-color: white;
+ }
+ #box9 img{
+    height: 160px;
+    width: 235px;
+ }
+ #box10{
+    background-color: white;
+ }
+ #box10 img{
+    height: 160px;
+    width: 235px;
+ }
+ .d5{
+    display: flex;
+    background-color: hsl(233, 26%, 24%);
+ }
+ .d5aa{
+    display: flex;
+    margin-left: 95%;
+    margin-top: 30%;
+    margin-bottom: 50px;
+ }
+ #logo1{
+    margin-left: 95%;
+    margin-top: 30%;
+ }
+#social{
+    margin-right: 10px;
+}
+#box12 ol{
+    list-style: none;
+    margin-left: 220%;
+    margin-top: 45%;
+}
+#box12 ol li{
+    margin-bottom: 15px;
+}
+#box12 ol li a{
+    text-decoration: none;
+    color: white;
+}
+#box13 ul{
+    list-style: none;
+    margin-left: 220%;
+    margin-top: 32%;
+}
+#box13 ul li{
+    margin-bottom: 15px;
+}
+#box13 ul li a{
+    text-decoration: none;
+    color: white;
+}
+#box14 button{
+    width: 140px;
+    border-radius: 30px;
+    height: 30px;
+    border: none;
+    margin-left: 300%;
+    margin-top: 30%;
+    background-image: linear-gradient(to right,hsl(136, 65%, 51%),hsl(192, 70%, 51%));
+}
+#box14 p{
+    margin-left: 300%;
+    margin-right: 0%;
+    color: gray;
+}
